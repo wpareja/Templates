@@ -12,13 +12,7 @@
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "wp1234"
-    },
-    "location" : {
-      "value": "West US"
-    },
-    "sizeOfDiskInGB" : {
-      "value": "20"
+      "value": "myDnsName"
     }
   }
 }
